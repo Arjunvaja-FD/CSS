@@ -1,0 +1,366 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper1{
+    display: flex;
+}
+.pg1{
+    background-image: url(../PSD/2ndpsdimages/Header\ Background.png);
+    position: relative;
+
+}
+.nav-menu {
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 300px;
+}
+.nav-bar a{
+font-size: 17px;
+text-transform: uppercase;
+color: #141212;
+font-weight: 700;
+font-family: "Open Sans";
+justify-content: space-evenly;
+margin-right: 150px;
+text-decoration: none;
+padding-top: 40px;
+}
+
+.nav-bar li{
+    padding-left: 30px;
+    text-decoration: none;
+    list-style: none;
+}
+.logo1{
+    display: flex;
+}
+.text h1{
+font-size: 92px;
+color: #0e0e0e;
+font-family: "Reey";
+filter: drop-shadow(0px 5px 2.5px rgba(84,82,79,0.22));
+font-family: 'Great Vibes', cursive;
+padding-top: 40px;
+padding-left: 20px;
+}
+.t{
+font-size: 25px;
+color: #ffffff;
+font-weight: 700;
+font-style: italic;
+font-family: "Open Sans";
+padding-top: 40px;
+padding-left: 20px;
+text-transform: uppercase;
+}
+.text p{
+font-size: 19px;
+color: black;
+font-weight: 400;
+font-style: italic;
+font-family: "Open Sans";
+padding-top: 50px;
+padding-left: 230px;
+}
+.desc{
+font-size: 21px;
+letter-spacing: 1px;
+color: #ffffff;
+font-weight: 400;
+font-style: italic;
+font-family: "Open Sans";
+padding-right: 300px;
+margin-right: 300px;
+}
+.button1{
+    padding-left: 20px;
+}
+.food1{
+    position: absolute;
+    top: 40px;
+    right: 40px;
+}
+.food2{
+    position: absolute;
+    right: 590px;
+    top: 270px;
+}
+.food3{
+    position: absolute;
+    bottom: 0px;
+    right: 20px;
+    top: 0px;
+}
+.pg2header{
+font-size: 75px;
+color: #222328;
+font-family: "Reey";
+text-align: center;
+margin-top: 50px;
+}
+.pg2header p{
+    font-size: 27px;
+color: #2f3135;
+font-weight: 400;
+font-family: "Open Sans";
+text-align: center;
+}
+.imagespage2{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 100px;
+}
+.image2 img {
+margin-bottom: 20PX;
+}
+.image3 img{
+    margin-bottom: 7px;
+}
+.showmore{
+    padding-left: 500px;
+    padding-bottom: 50px;
+}
+.page3{
+    background-image: url(../PSD/2ndpsdimages/Background\ .png);
+}
+.page3 p{
+    font-size: 75px;
+    
+color: #ffffff;
+font-family: "Reey";
+text-align: center;
+padding-top: 30px;
+}
+.writing{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.writing p{
+font-size: 16px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Montserrat";
+padding: 50px 100px;
+text-align: left;
+}
+.button2 img{
+    padding-left: 530px;
+    padding-bottom: 100px;
+}
+.page4{
+    display: flex;
+    justify-content: center;
+}
+.text h3{
+padding-top: 100px;
+font-size: 58px;
+color: #27292c;
+font-weight: 700;
+font-family: "Open Sans";
+}
+.text p{
+font-size: 29px;
+color: black;
+font-weight: 400;
+font-family: "Open Sans";
+padding-left: 0px;
+}
+.page5{
+    display: flex;
+    justify-content: center;
+}
+.text2 h3{
+padding-top: 100px;
+font-size: 58px;
+color: #27292c;
+font-weight: 700;
+font-family: "Open Sans";
+}
+.text2 p{
+font-size: 29px;
+color: #27292c;
+font-weight: 400;
+font-family: "Open Sans";
+}
+.text2{
+    padding-left: 50px;
+}
+.page6{
+    background-image: url(../PSD/2ndpsdimages/Header\ Background.png);
+    background-repeat: no-repeat;
+
+}
+.page6 h3{
+font-size: 58px;
+color: #f8f6f1;
+font-family: "Reey";
+text-align: center;
+}
+.page6 p{
+font-size: 25px;
+line-height: 33px;
+color: #f8f6f1;
+font-weight: 400;
+font-family: "Montserrat";
+text-align: center;
+padding: 0px 420px;
+}
+.design{
+    padding-left: 580px;
+    padding-top: 50px;
+    
+}
+.pizza{
+    padding-left: 350px;
+    margin-top: 100px;
+}
+.pc{
+    position: absolute;
+    top: 542px;
+    left:212px;
+    margin-top: 200px;
+    width: 500px;
+}
+.pg6{
+    position: relative;
+}
+.lif{
+    position: absolute;
+    bottom: 370px;
+    right: 0px;
+}
+.lorem7{
+    display: flex;
+}
+.lorem7 h2{
+    font-size: 42px;
+line-height: 33px;
+color: #393939;
+font-family: "Reey";
+padding : 0px 90px;
+
+}
+.container7{
+    padding-bottom: 200px;
+}
+.lorem7 p{
+    font-size: 19px;
+line-height: 25px;
+color: #333d42;
+font-weight: 400;
+font-family: "Open Sans";
+padding : 20px 90px;
+
+}
+.type4{
+    font-size: 25px;
+color: #3f3f3f;
+font-weight: 600;
+font-family: "Open Sans";
+text-align: center;
+padding-top: 200px;
+padding-left: 340px;
+padding-right: 340px;
+}
+.author{
+    padding-top: 50px;
+}
+.page8{
+    background-image: url(../PSD/2ndpsdimages/bg9.png);
+    padding-bottom: 300px;
+    overflow-x: hidden;
+    position: relative;
+}
+.page8 h3{
+font-size: 75px;
+color: #ffffff;
+font-weight: 700;
+font-family: "Open Sans";
+text-align: center;
+padding-top: 170px;
+}
+.page8 p{
+font-size: 30px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Open Sans";
+text-align: center;
+padding: 20px 300px;
+}
+.email{
+    width: 556px;
+    margin-left: 300px;
+    border-radius: 90px;
+    padding-bottom: 36px;
+}
+.subs{
+    bottom: 300px;
+    position: absolute;
+    right: 300px;
+}
+.bu4{
+    position: absolute;
+    bottom: 0px;
+    right: 400px;
+    
+}
+.page8 button{
+    padding: 20px;
+    border-radius: 30px;
+    position: absolute;
+    left: 810px;
+
+}
+.leaves2{
+    position: absolute;
+    bottom: -284px;
+}
+.container8{
+    position: relative;
+}
+.f1{
+    background-image: url(../PSD/images/Shape\ \(7\).png);
+    display: flex;
+    justify-content: space-between;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.f2 h1{
+    font-size: 32px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Montserrat";
+}
+.f2 p{
+font-size: 24px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Montserrat";
+margin-right: 40px;
+}
+.pg8{
+    overflow: hidden;
+}
+.f3 a , .f4 a, f5 a{
+    font-size: 24px;
+line-height: 42px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Montserrat";
+}
+.f2 img{
+    width: 100px;
+    height: 50px;
+    background-color: black;
+}
+
+

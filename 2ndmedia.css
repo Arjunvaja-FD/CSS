@@ -1,0 +1,318 @@
+@media (max-width: 1200px) { 
+    .pc{
+        top: 552px;
+        left: 212px;
+        margin-top: 200px;
+        width: 500px;
+    }
+    .lif{
+        bottom: 200px;
+        right: 0px;
+        width: 1200px;
+        height: 600px;
+        top: -70px;
+    }
+    .design{
+        padding-left: 520px;
+        padding-top: 20px;
+    }
+    .page8 button{
+        padding: 20px;
+        border-radius: 30px;
+        position: absolute;
+        left: 700px;
+        right: 240px;
+    
+    }
+
+
+
+
+}
+   @media (max-width: 992px) { 
+    .nav-bar  {
+      padding-left: 0px;
+    }
+    .page8 button{
+        padding: 20px;
+        border-radius: 30px;
+        position: absolute;
+        left: 643px;
+        right: 200px;
+    
+    }
+    .email{
+        width: 456px;
+        margin-left: 300px;
+        border-radius: 90px;
+        padding-bottom: 36px;
+    }
+    .pizza{
+        padding-left: 150px;
+        margin-top: 10px;
+    }
+    .container7{
+        padding-bottom: 200px;
+        padding-top: 100px;
+    }
+    
+    .pc{
+        top: 412px;
+        left:43px;
+        margin-top: 200px;
+    }
+    .design{
+        padding-left: 380px;
+        padding-top: 20px;
+    }
+    
+    .searchimg1{
+        width:220px;
+        height: 51px;
+        
+        border-radius: 25px;
+    }
+    .more, .more2{
+        width: 400px;
+        height: 400px;
+        padding-top: 50px;
+    }
+    .page6 p{
+        font-size: 25px;
+        line-height: 33px;
+        color: #f8f6f1;
+        font-weight: 400;
+        font-family: "Montserrat";
+        text-align: center;
+        padding: 0px 220px;
+        }
+        
+    .read , .read1{
+        padding-top: 50px;
+    }
+    .container4 , .container5{
+        padding-bottom: 100px;
+    }
+    .food1{
+        width: 500px;
+        height: 500px;
+    }
+    .button2 img{
+        padding-left: 330px;
+    }
+    .food2{
+        width: 200px;
+        height: 200px;
+        bottom: 120px;
+        left: 400px;
+    }
+    .pg2header h1{
+        font-size: 80px;
+    }
+
+    .showmore{
+        padding-left: 300px;
+    }
+    .lif{
+        bottom: 200px;
+        right: 0px;
+        width: 1000px;
+        height: 600px;
+        top: -70px;
+    }
+
+
+   }
+   @media (max-width: 768px) { 
+    .food1{
+        width: 300px;
+        height: 300px;
+        top: 150px;
+        right: 20px;
+    }
+    .page8 button{
+        padding: 20px;
+        border-radius: 30px;
+        position: absolute;
+        left: 493px;
+        right: 143px;
+    
+    }
+
+    .type4{
+        font-size: 25px;
+    color: #3f3f3f;
+    font-weight: 600;
+    font-family: "Open Sans";
+    text-align: center;
+    padding-top: 200px;
+    padding-left: 116px;
+    padding-right: 60px;
+    }
+    
+    .pizza{
+        padding-left: 150px;
+        margin-top: 10px;
+        width: 700px;
+        height: 700px;
+    }
+    .pc{
+        top: 387px;
+        left:43px;
+        margin-top: 200px;
+        width: 360px;
+        height: 360px;
+    }
+
+
+    .more , .more2{
+        width: 400px;
+        height: 400px;
+        margin-top: 80px;
+    }
+    h5{
+        font-size: 20px;
+    }
+    .food2{
+        width: 200px;
+        height: 200px;
+        bottom: 170px;
+        left: 340px;
+    }
+    .showmore{
+        padding-left: 200px;
+    }
+    
+    .imagespage2{
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 200px;
+    }
+    .text h1{
+        font-size: 78px;
+    }
+    .text p{
+        font-size: 20px;
+    }
+    .button2 img{
+        padding-left: 230px;
+    }
+    .lif{
+        bottom: 200px;
+        right: 0px;
+        width: 800px;
+        height: 400px;
+        top: -36px;
+    }
+    .email{
+        width: 456px;
+        margin-left: 170px;
+        border-radius: 90px;
+        padding-bottom: 36px;
+    }
+    .food3{
+        width: 400px;
+        
+    }
+
+ 
+   }
+   @media (max-width: 576px) { 
+    .food1{
+        width: 300px;
+        height: 300px;
+        top: 150px;
+        right: 0px;
+    }
+    .nav-bar li a{
+        display: none;
+    }
+    .page8 p {
+        padding: 14px 186px;
+    }
+    .text h1{
+        font-size: 48px;
+    }
+    .email{
+        width: 456px;
+        margin-left: 87px;
+        border-radius: 90px;
+        padding-bottom: 36px;
+    }
+
+    .food2{
+        width: 200px;
+        height: 200px;
+        bottom: 130px;
+        left: 240px;
+    }
+    .writing p{
+        font-size: 24px;
+    }
+    .imagespage2{
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 160px;
+    }
+    .showmore{
+        padding-left: 200px;
+    }
+    .button2 img{
+        padding-left: 130px;
+    }
+    .more ,.more2{
+        padding-top: 50px;
+    }
+    .more2{
+        width: 240px;
+        height: 400px;
+        padding-left: 50px;
+    }
+    .page6 p{
+        font-size: 25px;
+        line-height: 33px;
+        color: #f8f6f1;
+        font-weight: 400;
+        font-family: "Montserrat";
+        text-align: center;
+        padding: 0px 120px;
+        }
+        .design{
+            padding-left: 210px;
+            padding-top: 20px;
+        }
+        .pizza{
+            margin-left: 50px;
+            margin-top: 10px;
+            width: 500px;
+            height: 500px;
+        }
+        .pc{
+            top: 378px;
+            left:118px;
+            margin-top: 200px;
+            width: 208px;
+            height: 260px;
+        }
+        .lif{
+            bottom: 200px;
+            right: 0px;
+            width: 600px;
+            height: 400px;
+            top: -36px;
+        }
+        .lorem7{
+            display: flex;
+            flex-direction: column;
+        }
+        .page8 button{
+            padding: 20px;
+            border-radius: 30px;
+            position: absolute;
+            left: 700px;
+            right: 0px;
+        
+    
+        }
+    
+   }
